@@ -3,8 +3,8 @@
 
 
 
-![Murilin GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilin&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murilin&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Murilin GitHub stats](https://github-readme-stats.vercel.app/api?username=murilorlima-source&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilorlima-source&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia
 
